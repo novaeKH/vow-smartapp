@@ -1,0 +1,16 @@
+<test>
+    <test-case id="testCase-1">
+        <q>начать игру</q>
+        <a>Игра началась.</a>
+    </test-case>
+
+    <test-case id="testCase-2">
+        <q>покажи счёт</q>
+        <a>Показываю счёт.</a>
+    </test-case>
+
+    <test-case id="testCase-3">
+        <q>покажи счет</q>
+        <a>Показываю счёт.</a>
+    </test-case>
+</test>

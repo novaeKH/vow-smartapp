@@ -1,0 +1,18 @@
+name: SmartApp
+
+entryPoint:
+  - entryPoint.sc
+
+botEngine: v2
+language: ru
+
+sts:
+  noMatchThreshold: 0.2
+caila:
+  noMatchThreshold: 0.2
+
+messages:
+  onError:
+    defaultMessage: Произошла ошибка. Попробуйте ещё раз.
+    locales:
+      ru: Произошла ошибка. Попробуйте ещё раз.
